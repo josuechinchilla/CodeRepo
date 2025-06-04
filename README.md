@@ -1,2 +1,2 @@
 # CodeRepo
-Directory of BI tools that are publicly available
+Directory of BI tools for that are publicly available
